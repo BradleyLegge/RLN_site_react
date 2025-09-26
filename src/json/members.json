@@ -1,0 +1,44 @@
+[
+    {
+        "name": "Bj Davis",
+        "igName": "100TFroz3n",
+        "position": "Top",
+        "image": "images/topPosition.png",
+        "profile": "images/bjDavis"
+    },
+    {
+        "name": "Ricky Titus",
+        "igName": "FlashingPikachu",
+        "position": "Jungle",
+        "image": "images/junglePosition.png",
+        "profile": "images/rickyTitus"
+    },
+    {
+        "name": "Bradley Legge",
+        "igName": "Soja",
+        "position": "Mid",
+        "image": "images/midPosition.png",
+        "profile": "images/bradleyLegge"
+    },
+    {
+        "name": "Chad Mairena",
+        "igName": "RLNsneakyhands",
+        "position": "Marksman",
+        "image": "images/botPosition.png",
+        "profile": "images/chadMairena"
+    },
+    {
+        "name": "Ayla Davis",
+        "igName": "Shadelynnx",
+        "position": "Support",
+        "image": "images/supportPosition.png",
+        "profile": "images/aylaDavis"
+    },
+    {
+        "name": "Troy Watkins",
+        "igName": "TheeRex05",
+        "position": "Top",
+        "image": "images/topPosition.png",
+        "profile": "images/troyWatkins"
+    }
+]

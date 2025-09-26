@@ -1,0 +1,69 @@
+[
+    {
+        "name": "Demacia Cup",
+        "day": 3,
+        "place": "2nd" 
+    },
+    {
+        "name": "Demacia Cup",
+        "day": 4,
+        "place": "3rd" 
+    },
+    {
+        "name": "Hextech Cup",
+        "day": 1,
+        "place": "3rd" 
+    },
+    {
+        "name": "Freljord Cup",
+        "day": 1,
+        "place": "1st",
+        "reward" : "images/freljordTrophy.png"
+    },
+    {
+        "name": "Freljord Cup",
+        "day": 2,
+        "place": "4th"
+    },
+    {
+        "name": "Freljord Cup",
+        "day": 3,
+        "place": "3rd"
+    },
+    {
+        "name": "Freljord Cup",
+        "day": 4,
+        "place": "2nd"
+    },
+    {
+        "name": "Piltover Cup",
+        "day": 1,
+        "place": "3rd"
+    },
+    {
+        "name": "Piltover Cup",
+        "day": 2,
+        "place": "4th"
+    },
+    {
+        "name": "Piltover Cup",
+        "day": 3,
+        "place": "2nd"
+    },
+    {
+        "name": "Piltover Cup",
+        "day": 4,
+        "place": "1st",
+        "reward" : "images/piltoverTrophy.png"
+    },
+    {
+        "name": "Ionia Cup",
+        "day": 1,
+        "place": "2nd"
+    },
+    {
+        "name": "Ionia Cup",
+        "day": 2,
+        "place": "3rd"
+    }
+]
