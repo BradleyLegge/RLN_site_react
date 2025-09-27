@@ -1,13 +1,14 @@
 import React from "react";
 import rln_logo from "../images/rln_logo_desktop.png";
 
-const Navbar = () => {
+const Header = () => {
   const links = [
     { name: "Home", href: "#" },
     { name: "About", href: "#" },
     { name: "Services", href: "#" },
     { name: "Contact", href: "#" },
   ];
+
   return (
     <nav className="header-nav">
       <div className="navbar-container">
@@ -24,4 +25,4 @@ const Navbar = () => {
   );
 };
 
-export default Navbar;
+export default Header;
